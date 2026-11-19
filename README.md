@@ -141,6 +141,14 @@ Generate Feedback: After completing the interview, Gemini evaluates the conversa
 Candidate score (out of 5)
 
 Detailed feedback
+### Application Interface
+
+![Application Interface](Interface.png)
+
+### AI Generated Feedback
+
+![AI Generated Feedback](Feedback.png)
+[▶ Watch Project Execution Video](Project Execution.mp4)
 
 Areas of improvement
 🎯 Project Objectives
